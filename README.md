@@ -40,16 +40,10 @@ I'm a Computer Science Ph.D. student at the University of South Florida. I'm res
     - Courses: Introduction to Computer Programming II(Summer 2021), Data Visualization(Spring 2021)
 - Graduate Research Assistant
   - University of Arizona(Aug 2019 - Dec 2020)
-    - Work on developing an interactive visualization tool that visualizes the context-free grammars using node-link diagrams to help people understand their different key features.
+    - Work on developing an interactive visualization tool that visualizes the context-free grammars using node-link diagrams to help people understand them better.
+- Graduate Instructor
+  - University of Arizona(Summer 2020)
+  - Course: Introduction to Computer Programming II
 - Lecturer of Computer Science
- - 
-
-I have 2 years of experience in Data Visualization. I have worked on a project that uses different javascript graph visualization libraries(d3.js, cola.js, dagre.js, Force Directed Graph, etc.) to visualize context-free grammars as node-link diagrams so that they can be understood and used easily by the users. As part of this project, I designed experiments and surveys to find out the requirements of the users for the visualization tool I was working on.
-
-I have a strong background in Data Structures and Algorithms. My passion is solving problems, and I've been involved in competitive programming for more than six years. I've solved a lot of problems on various platforms(i.e. Codeforces, HackerRank, Leetcode, etc.). I'm proficient in Javascript, C++, Python, C, SQL and I have working experience in Java, PHP, HTML, CSS, etc.
-
-I have always been a keen enthusiast of Machine Learning, Deep Learning, and Data Science. Every opportunity I have, I am learning more about these areas. I have been taking relevant graduate classes at USF and also taking online classes from various online learning platforms(i.e. Coursera, DataCamp, etc.). I am interested in integrating Machine Learning and Deep Learning into my Data Visualization research in the future.
-
-
-
-I'm always looking for internship opportunities in Data Visualization, Data Science, and Software Engineering. I'm also enthusiastic about projects related to Machine Learning and Deep Learning.
+  - Daffodil International University(Sep 2017 - Aug 2019)
+  - University of Information Technology and Sciences(May 2017 - Sep 2017)
