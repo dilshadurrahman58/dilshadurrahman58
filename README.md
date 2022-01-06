@@ -22,7 +22,7 @@ I'm a Computer Science Ph.D. student at the University of South Florida. I'm res
   - University of South Florida(Aug 2021 - Present)
   - University of Arizona(Aug 2019 - Aug 2021)
 - BS in Computer Science and Engineering
-  - Khulna University of Engineering and Technology
+  - Khulna University of Engineering and Technology(Mar 2013 - Mar 2017)
 
 ### Key Skills
 - Javascript, C++, C, Python, Java, PHP
