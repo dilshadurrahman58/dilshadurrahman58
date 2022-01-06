@@ -19,10 +19,10 @@ I'm a Computer Science Ph.D. student at the University of South Florida. I'm res
 
 ### Education
 - PhD in Computer Science
- - University of South Florida(Aug 2021 - Present)
- - University of Arizona(Aug 2019 - Aug 2021)
+  - University of South Florida(Aug 2021 - Present)
+  - University of Arizona(Aug 2019 - Aug 2021)
 - BS in Computer Science and Engineering
- - Khulna University of Engineering and Technology
+  - Khulna University of Engineering and Technology
 
 I have 2 years of experience in Data Visualization. I have worked on a project that uses different javascript graph visualization libraries(d3.js, cola.js, dagre.js, Force Directed Graph, etc.) to visualize context-free grammars as node-link diagrams so that they can be understood and used easily by the users. As part of this project, I designed experiments and surveys to find out the requirements of the users for the visualization tool I was working on.
 
