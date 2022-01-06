@@ -32,6 +32,17 @@ I'm a Computer Science Ph.D. student at the University of South Florida. I'm res
 - Software Development, Database Design
 - Data Visualization, Data Science, Deep Learning
 
+### Work Experience
+- Graduate Teaching Assistant
+  - University of South Florida(Aug 2021 - Present)
+    - Courses: Interactive Data Visualization(Spring 2022), Computer Architecture Lab(Fall 2021), IT Security Systems(Fall 2021)
+  - University of Arizona(Jan 2021 - Aug 2021)
+    - Courses: Introduction to Computer Programming II(Summer 2021), Data Visualization(Spring 2021)
+- Graduate Research Assistant
+  - University of Arizona(Aug 2019 - Dec 2020)
+- Lecturer of Computer Science
+ - 
+
 I have 2 years of experience in Data Visualization. I have worked on a project that uses different javascript graph visualization libraries(d3.js, cola.js, dagre.js, Force Directed Graph, etc.) to visualize context-free grammars as node-link diagrams so that they can be understood and used easily by the users. As part of this project, I designed experiments and surveys to find out the requirements of the users for the visualization tool I was working on.
 
 I have a strong background in Data Structures and Algorithms. My passion is solving problems, and I've been involved in competitive programming for more than six years. I've solved a lot of problems on various platforms(i.e. Codeforces, HackerRank, Leetcode, etc.). I'm proficient in Javascript, C++, Python, C, SQL and I have working experience in Java, PHP, HTML, CSS, etc.
