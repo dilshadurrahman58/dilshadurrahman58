@@ -49,4 +49,4 @@ I'm a Computer Science Ph.D. student at the University of South Florida. I'm res
   - University of Information Technology and Sciences(May 2017 - Sep 2017)
 
 
-[![Dilshadur's github stats](https://github-readme-stats.vercel.app/api?username=dilshadurrahman58)](https://github.com/anuraghazra/github-readme-stats)
+[![Dilshadur's github stats](https://github-readme-stats.vercel.app/api?username=dilshadurrahman58)](https://github.com/dilshadurrahman58/github-readme-stats)
