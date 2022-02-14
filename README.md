@@ -37,7 +37,7 @@ I'm a Computer Science Ph.D. student at the University of South Florida. I'm res
   - University of South Florida(Aug 2021 - Present)
     - Courses: Interactive Data Visualization(Spring 2022), Computer Architecture Lab(Fall 2021), IT Security Systems(Fall 2021)
   - University of Arizona(Jan 2021 - Aug 2021)
-    - Courses: Introduction to Computer Programming II(Summer 2021), Data Visualization(Spring 2021)
+    - Courses: Data Visualization(Spring 2021), Introduction to Computer Programming II(Summer 2021)
 - Graduate Research Assistant
   - University of Arizona(Aug 2019 - Dec 2020)
     - Work on developing an interactive visualization tool that visualizes the context-free grammars using node-link diagrams to help people understand them better.
