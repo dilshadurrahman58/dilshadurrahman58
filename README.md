@@ -26,6 +26,7 @@ I'm a Computer Science Ph.D. student at the University of South Florida. I'm res
 
 ### Key Skills
 - Javascript, C++, C, Python, Java, PHP
+- D3, Vega, WebCola, HTML, CSS
 - SQL, MySQL
 - Linux, Shell Scripting
 - Data Structure, Algorithms, Problem-solving
