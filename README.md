@@ -19,8 +19,9 @@ I'm a Computer Science Ph.D. student at the University of South Florida. I'm res
 
 ### Education
 - PhD in Computer Science
-  - University of South Florida(Aug 2021 - Present)
-  - University of Arizona(Aug 2019 - Aug 2021)
+  - University of Utah
+- Master in Computer Science
+  - University of South Florida(Aug 2022)
 - BS in Computer Science and Engineering
   - Khulna University of Engineering and Technology(Mar 2013 - Mar 2017)
 
