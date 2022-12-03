@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science Ph.D. student at the University of South Florida. I'm researching Data Visualization at Dr. Rosen's Visualization and Graphics lab. I'm highly interested in developing visualization tools that would help people understand their data better. I'm always looking for summer internship opportunities in Data Visualization, Software Engineering, and Data Science.
+I'm a Computer Science Ph.D. student at the University of Utah. I'm researching Data Visualization with Dr. Rosen at the Scientific Computing and Imaging Institute. I am broadly interested in annotations in visualizations, visualization perception, trust in visualization, and visualization tools that make people understand their data better. I have a strong attraction to qualitative research.
 
 ### Education
 - PhD in Computer Science
