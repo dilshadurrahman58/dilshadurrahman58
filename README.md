@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science Ph.D. student at the University of Utah. I'm researching Data Visualization with Dr. Rosen at the Scientific Computing and Imaging Institute. I am broadly interested in annotations in visualizations, visualization perception, trust in visualization, and visualization tools that make people understand their data better. I have a strong attraction to qualitative research.
+I'm a Computer Science Ph.D. student at the University of Utah. I'm researching Data Visualization with Dr. Rosen at the Scientific Computing and Imaging Institute. I am broadly interested in annotations in visualizations, visualization perception, trust in visualization, and visualization tools that make people understand their data better. I also have a strong attraction to qualitative research and I plan to integrate qualitative analysis in my visualization research.
 
 ### Education
 - PhD in Computer Science
@@ -35,8 +35,10 @@ I'm a Computer Science Ph.D. student at the University of Utah. I'm researching 
 - Data Visualization, Data Science, Deep Learning
 
 ### Work Experience
+- Graduate Research Assistant
+  - Scientific Computing and Imaging Institute, University of Utah (Aug 2022 - Present)
 - Graduate Teaching Assistant
-  - University of South Florida(Aug 2021 - Present)
+  - University of South Florida(Aug 2021 - Aug 2022)
     - Courses: Interactive Data Visualization(Spring 2022), Computer Architecture Lab(Fall 2021), IT Security Systems(Fall 2021)
   - University of Arizona(Jan 2021 - Aug 2021)
     - Courses: Data Visualization(Spring 2021), Introduction to Computer Programming II(Summer 2021)
